@@ -44,6 +44,4 @@ Average response time: 3 seconds
 Developer : 
 Anuj Ganesh Kanchan ( Computer science Artificial Intelligence & Analytics Engineer )
 
-Guide: Prof. Raju Gurav
-Mentor: Prof. Pranav Chippalkatti
 
