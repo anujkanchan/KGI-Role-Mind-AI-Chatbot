@@ -42,6 +42,6 @@ Average accuracy: ~94%
 Average response time: 3 seconds
 
 Developer : 
-Anuj Ganesh Kanchan ( Computer science Artificial Intelligence & Analytics Engineer )
+Anuj Ganesh Kanchan ( Computer science Artificial Intelligence & Analytics Engineer ).
 
 
